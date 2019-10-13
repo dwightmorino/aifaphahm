@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ephooghug.jareenimam.com/sitemap.xml
